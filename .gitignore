@@ -53,7 +53,9 @@ Plugins/**/Binaries/*
 # Builds
 Build/*
 
-Content/LevelPrototyping/*
+Content/LevelPrototyping/Textures/*
+Content/LevelPrototyping/Meshes/*
+Content/LevelPrototyping/Levels/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
